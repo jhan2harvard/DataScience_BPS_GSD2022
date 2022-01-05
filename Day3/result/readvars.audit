@@ -1,0 +1,29 @@
+ ReadVarsESO
+ processing:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizone.rvi
+ input file:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.eso
+ output file:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.csv
+ getting all vars from:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.eso
+  number variables requested for output=          45
+ ReadVars Run Time=00hr 00min  0.06sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizone.rvi
+ input file:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.eso
+ output file:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.csv
+ getting all vars from:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.eso
+  number variables requested for output=          15
+ ReadVars Run Time=00hr 00min  0.28sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizone.mvi
+ Requested ESO file=C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.mtr
+ does not exist.  ReadVarsESO program terminated.
+ ReadVarsESO program terminated.
+ ReadVarsESO
+ processing:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizone.rvi
+ input file:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.eso
+ output file:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.csv
+ getting all vars from:C:\Users\ellie\Dropbox\E_Work\Jterm\Day3\result\multizoneout.eso
+  number variables requested for output=          15
+ ReadVars Run Time=00hr 00min  0.28sec
+ ReadVarsESO program completed successfully.
